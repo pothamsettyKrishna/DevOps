@@ -7,6 +7,3 @@ DevOps is a software development approach that emphasizes collaboration, communi
 ### Improve SDLC with DevOps
 
 SDLC(Software Devlopement Life Cycle) is a process that is followed by the industry to Design, Develop, Test and Deliver High quality product.
-
-
-
